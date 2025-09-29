@@ -6,13 +6,13 @@ These scripts help with file management, folder analysis, and automating repetit
 ---
 
 ## ✨ Features
-- 1.conterfiles  - paste the file in the folder were you want to count , and just run it (Double click)
+- [countfiles.bat](https://github.com/PawanLambole/cmd-helper/blob/main/countfiles.bat) – Paste this file in the folder where you want to count files, and just run it (Double click)
+
 ---
 
-##  Getting Started
+## 🚀 Getting Started
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/windows-cli-utilities.git
-cd windows-cli-utilities
-# cmd-helper
+git clone https://github.com/PawanLambole/cmd-helper.git
+cd cmd-helper
